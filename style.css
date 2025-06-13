@@ -1,0 +1,11 @@
+#p1{
+    background-color: aquamarine;
+    height: 400px;
+    width: 500px;
+}
+.s{
+    background-image: url(mumbai.jpg);
+    height: 400px;
+    width: 300px;
+    background-repeat:no-repeat;
+}

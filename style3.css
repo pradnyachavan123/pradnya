@@ -1,0 +1,24 @@
+#p{
+    background-color:darkmagenta;
+    height: 300px;
+    width: auto;
+    
+}
+#r{
+    background-color: chartreuse;
+    height: 200px;
+    width: 350px;
+    float: left;
+}
+#a{
+    background-color:darkorange;
+    height: 200px;
+    width: 350px;
+    float: left;
+}
+#d{
+    background-color:cornflowerblue;
+    height: 200px;
+    width: 322px;
+    float: left;
+}

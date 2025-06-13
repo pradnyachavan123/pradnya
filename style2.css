@@ -1,0 +1,39 @@
+#a{
+   background-color: aqua;
+    height:400px;
+    width: 300px;
+    float: left;
+    margin: 40px;
+     
+}
+#b{
+    background-color: blueviolet;
+    height: 450px;
+    width: 250px;
+    float: right;
+    margin: 40px;
+     
+
+}
+#c{
+    background-color: deeppink;
+    height:300px;
+    width: 200px;
+    float: left;
+    margin: 45px;
+    
+}
+#d{
+    background-color:brown;
+    height: 150px;
+    width: 100px;
+    float: left;
+    margin: 50px;
+}
+#e{
+    background-color: lightblue;
+    height: 100px;
+    width: 150px;
+    float: right;
+    margin: 30px;
+}
